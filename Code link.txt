@@ -1,0 +1,10 @@
+male_female
+https://colab.research.google.com/drive/1KqM9BB_kw4B4PfKyfFtp8aOiwclIaj6Q?usp=sharing
+
+
+simple with SGD
+https://colab.research.google.com/drive/1KqM9BB_kw4B4PfKyfFtp8aOiwclIaj6Q?usp=sharing
+  
+
+simple with Adam
+https://colab.research.google.com/drive/1Y7-PxRxES3JI-SO_RRnPGtQ89NNxkMy2?usp=sharing
